@@ -1,5 +1,5 @@
 # Classification-using-Decision-Tree
-Prepared Classification model for different use cases
+Prepared Classification model for different use cases by using Decision tree algorithm.
 1) A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 
 Approach - A decision tree can be built with target variable Sale
